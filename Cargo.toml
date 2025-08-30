@@ -1,0 +1,8 @@
+[package]
+name = "ann"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ndarray = "0.15"
+ordered-float = "3.0"
